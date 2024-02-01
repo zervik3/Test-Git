@@ -21,3 +21,9 @@ git status - Проверка статуса репозитория
 git branch - Выводит ветки
 branch - ветка
 git branch name - Создание ветки
+
+
+
+
+
+github
