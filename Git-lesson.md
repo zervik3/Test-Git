@@ -20,3 +20,4 @@ git status - Проверка статуса репозитория
 ## Lesson 2
 git branch - Выводит ветки
 branch - ветка
+git branch name - Создание ветки
